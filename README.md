@@ -10,8 +10,5 @@ Server, that use my system:
 1. Put the modify version of MyPlot and MyPlotMerge into your plugin folder
 2. Start the server.
 
-Or use with your own plugin:
-1. 
-
 # Video Example
 [![Youtube Video Example](thumbnail.jpg)](https://youtu.be/9v4E2d-L3KU)
