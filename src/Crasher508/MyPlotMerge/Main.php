@@ -38,11 +38,6 @@ class Main extends PluginBase
         $this->getLogger()->info("MyPlotMerge von Crasher508 wurde aktiviert");
     }
 
-    public function isTrusted(Player $player, $plot){
-		$username = $player->getName();
-		return ($plot->owner == $username or $plot->isHelper($username) or $plot->isHelper("*"));
-	}
-
 	public function isPlotMerged(Block $block, Player $player){
 		$username = $player->getName();
 		$x = $block->getX();
