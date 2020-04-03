@@ -1,0 +1,17 @@
+name: MyPlotMerge
+author: Crasher508
+version: 2.0.0
+description: MyPlot Merge for PocketMine-MP
+main: Crasher508\MyPlotMerge\Main
+api: [3.0.0,4.0.0]
+permissions:
+  myplot.command:
+    default: op
+    children:
+      myplot.command.merge:
+        default: true
+  myplot.admin:
+    default: op
+    children:
+      myplot.admin.merge:
+        default: true
