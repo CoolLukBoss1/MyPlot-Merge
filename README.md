@@ -14,4 +14,4 @@ Or use with your own plugin:
 1. 
 
 # Video Example
-[![Youtube Video Example](thumbnail.jpg)](https://youtu.be/QF1EW5htE74)
+[![Youtube Video Example](thumbnail.jpg)](https://youtu.be/9v4E2d-L3KU)
